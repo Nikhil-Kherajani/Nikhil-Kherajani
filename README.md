@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/kherajaninikhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kherajaninikhil" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nikhil-kherajani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-kherajani" height="30" width="40" /></a>
-<a href="https://instagram.com/nikhil_kherajani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhil_kherajani" height="30" width="40" /></a>
+<a href="https://instagram.com/nikhil_kherajani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhil_kherajani_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/its_nk_77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="its_nk_77" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nikhil_kherajani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhil_kherajani" height="30" width="40" /></a>
 </p>
