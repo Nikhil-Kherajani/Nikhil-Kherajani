@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 🤝 I’m looking for help with **AI Assistant(python project )**
+- 🤝 I’m looking for help with **AI Assistant(python project)**
 
 - 💬 Ask me about **frontend or backend**
 
