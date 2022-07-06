@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **nikhilkherajani7@gmail.com**
 
-- ⚡ Fun fact **don't judge a coder by his code, not so fun fact right? **
+- ⚡ Fun fact **don't judge a coder by his code, not so fun fact right?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
