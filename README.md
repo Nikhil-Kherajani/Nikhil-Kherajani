@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kherajaninikhil" target="blank"><img src="https://img.shields.io/twitter/follow/kherajaninikhil?logo=twitter&style=for-the-badge" alt="kherajaninikhil" /></a> </p>
 
-- 🔭 I’m currently working on **Eye Saver**
+- 🔭 I’m currently working on **Hobby Connect**
 
 - 🌱 I’m currently learning **Node.js**
 
