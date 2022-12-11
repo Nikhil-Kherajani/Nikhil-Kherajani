@@ -28,7 +28,7 @@
 <a href="https://www.leetcode.com/nikhil_kherajani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhil_kherajani" height="30" width="40" /></a>
 </p>
 
-
+<h3>Summary</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil-kherajani&show_icons=true&locale=en&layout=compact" alt="nikhil-kherajani" /></p>
 
@@ -42,9 +42,17 @@ Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+Frameworks, Platforms and Libraries </br>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
+`📱 Mobile Frameworks </br>
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+
 
 
 
