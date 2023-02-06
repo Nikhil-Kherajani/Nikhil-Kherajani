@@ -49,7 +49,7 @@ Frameworks, Platforms and Libraries </br>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) </br>
 
-`📱 Mobile Frameworks </br>
+📱 Mobile Frameworks </br>
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
